@@ -31,8 +31,8 @@ const ItemDisplay = () => {
     ];
    
   const handleButtonClick = () => {
-    setItems(itemList); // Set items in state
-    setShowItems(true); // Update state to show items
+    setItems(itemList); 
+    setShowItems(true); 
   };
 
   
